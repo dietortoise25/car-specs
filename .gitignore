@@ -1,0 +1,8 @@
+﻿# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!docs/
+!docs/**
+!export_spec_info.py
